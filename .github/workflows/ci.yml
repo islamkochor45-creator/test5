@@ -2,7 +2,7 @@ name: Fastapi CI
 
 on:
   push:
-    branches: ["main"]
+    branches: ["master"]
 
 jobs:
   run-app:
